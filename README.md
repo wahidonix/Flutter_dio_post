@@ -1,6 +1,6 @@
 # post_request
 
-A new Flutter project.
+A new Flutter project using dio instead of the standaard http package.
 
 ## Getting Started
 
